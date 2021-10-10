@@ -1,4 +1,4 @@
- Substitution Cipher
+Substitution Cipher
  
 A simple and very old method of sending secret messages is the substitution cipher.
 You might have used this cipher with your friends when you were a kid.
