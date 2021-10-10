@@ -49,7 +49,7 @@ int main() {
     return 0;
 }
 
-// ELEGENT CODE
+// ELEGANT CODE
 
 
 // #include <iostream>

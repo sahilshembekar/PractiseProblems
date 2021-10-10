@@ -1,3 +1,5 @@
+URL: https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
+
 A for loop is a programming language statement which allows code to be repeatedly executed.
 
 The syntax is
