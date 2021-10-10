@@ -1,40 +1,35 @@
-A for loop is a programming language statement which allows code to be repeatedly executed.
+Objective
+In this challenge, we practice reading input from stdin and printing output to stdout.
 
-The syntax is
+In C++, you can read a single whitespace-separated token of input using cin, and print output to stdout using cout. For example, let's say we declare the following variables:
 
-for ( <expression_1> ; <expression_2> ; <expression_3> )
-    <statement>
-expression_1 is used for intializing variables which are generally used for controlling the terminating flag for the loop.
-expression_2 is used to check for the terminating condition. If this evaluates to false, then the loop is terminated.
-expression_3 is generally used to update the flags/variables.
-A sample loop is
+string s;
+int n;
+and we want to use cin to read the input "High 5" from stdin. We can do this with the following code:
 
-for(int i = 0; i < 10; i++) {
-    ...
-}
-In this challenge, you will use a for loop to increment a variable through a range.
+cin >> s >> n;
+This reads the first word ("High") from stdin and saves it as string , then reads the second word ("") from stdin and saves it as integer . If we want to print these values to stdout, separated by a space, we write the following code:
+
+cout << s << " " << n << endl;
+This code prints the contents of string , a single space (), then the integer . We end our line of output with a newline using endl. This results in the following output:
+
+High 5
+Task
+Read  numbers from stdin and print their sum to stdout.
 
 Input Format
 
-You will be given two positive integers,  and  (), separated by a newline.
+One line that contains  space-separated integers: , , and .
+
+Constraints
 
 Output Format
 
-For each integer  in the inclusive interval :
-
-If , then print the English representation of it in lowercase. That is "one" for , "two" for , and so on.
-Else if  and it is an even number, then print "even".
-Else if  and it is an odd number, then print "odd".
-Note: 
+Print the sum of the three numbers on a single line.
 
 Sample Input
 
-8
-11
-
+1 2 7
 Sample Output
 
-eight
-nine
-even
-odd
+10
