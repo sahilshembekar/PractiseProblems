@@ -1,0 +1,1 @@
+https://practice.geeksforgeeks.org/problems/replace-all-0-with-5-in-an-input-integer/1/?company[]=Amazon&company[]=Amazon&problemType=functional&difficulty[]=-2&page=1&sortBy=submissions&query=company[]AmazonproblemTypefunctionaldifficulty[]-2page1sortBysubmissionscompany[]Amazon
