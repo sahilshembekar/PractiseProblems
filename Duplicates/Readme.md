@@ -1,0 +1,1 @@
+https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&problemType=functional&page=1&sortBy=submissions&query=category[]ArraysproblemStatusunsolvedproblemTypefunctionalpage1sortBysubmissionscategory[]Arrays 

@@ -1,0 +1,5 @@
+[https://practice.geeksforgeeks.org/problems/third-largest-element/1/?company[]=Amazon&company[]=Amazon&problemStatus=unsolved&problemType=functional&difficulty[]=-1&page=1&sortBy=submissions&query=company[]AmazonproblemStatusunsolvedproblemTypefunctionaldifficulty[]-1page1sortBysubmissionscompany[]Amazon#](https://practice.geeksforgeeks.org/problems/third-largest-element/1/?company%5B%5D=Amazon&company%5B%5D=Amazon&problemStatus=unsolved&problemType=functional&difficulty%5B%5D=-1&page=1&sortBy=submissions&query=company%5B%5DAmazonproblemStatusunsolvedproblemTypefunctionaldifficulty%5B%5D-1page1sortBysubmissionscompany%5B%5DAmazon#)
+
+Given an array of distinct elements. Find the third largest element in it.
+
+Suppose you have A[] = {1, 2, 3, 4, 5, 6, 7}, its output will be 5 because it is the 3 largest element in the array A.
