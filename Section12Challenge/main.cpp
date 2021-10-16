@@ -10,7 +10,10 @@ void print(const int *const arr, size_t size) {
     cout << endl;
 }
 
-// You can't perform a range based loop directly over a dynamically allocated array because all you have is a pointer to the first element. There is no information concerning its size that the compiler can use to perform the loop. The idiomatic C++ solution would be to replace the dynamically allocated array by an std::vector:
+/*You can't perform a range based loop directly over a dynamically 
+allocated array because all you have is a pointer to the first element. 
+There is no information concerning its size that the compiler can use to perform the loop. 
+The idiomatic C++ solution would be to replace the dynamically allocated array by an std::vector: */
 
 // void print(const int *const arr, size_t size) {
 //     cout << "[ ";
