@@ -14,13 +14,13 @@ public:
     StackNode* next; 
 }; 
   
-StackNode* newNode(int data) 
-{ 
-    StackNode* stackNode = new StackNode(); 
-    stackNode->data = data; 
-    stackNode->next = NULL; 
-    return stackNode; 
-} 
+// StackNode* newNode(int data) 
+// { 
+//     StackNode* stackNode = new StackNode(); 
+//     stackNode->data = data; 
+//     stackNode->next = NULL; 
+//     return stackNode; 
+// } 
   
 int isEmpty(StackNode* root) 
 { 
