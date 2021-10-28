@@ -1,4 +1,5 @@
 # PractiseProblems
 
+Problem from HackerRank, GeeksforGeeks ans some other common Algo and DS problems
 
-Problem from HackerRank and GeeksforGeeks Website
+All implementation are in C++ as of now.
